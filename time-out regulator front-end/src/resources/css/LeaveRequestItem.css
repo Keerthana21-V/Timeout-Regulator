@@ -1,0 +1,15 @@
+.inboxLi {
+    border: 1px solid #ddd; /* Add a thin border to each list item */
+    margin-top: -1px; /* Prevent double borders */
+    background-color: #f6f6f6; /* Add a grey background color */
+    padding: 12px; /* Add some padding */
+}
+
+.dot {
+    height: 10px;
+    width: 10px;
+    background-color: #32CD32;
+    border-radius: 50%;
+    display: block;
+    float: right;
+}

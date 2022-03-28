@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: calibri;
+}
+.mainbody {
+    height:100%;
+    width:100%;
+    position: fixed;
+}
